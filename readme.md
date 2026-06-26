@@ -1,5 +1,9 @@
 # 📸 Gallery Copilot
 
+## Demo
+
+![Gallery Copilot](screenshot.png)
+
 Gallery Copilot is an AI-powered photo search assistant that allows users to search their personal gallery using natural language.
 
 Instead of manually scrolling through thousands of photos, users can ask questions such as:
