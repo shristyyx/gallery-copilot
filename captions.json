@@ -1,0 +1,42 @@
+[
+  {
+    "path": "dataset/childhoodpicture.jpeg",
+    "caption": "a woman in a red sari sari sari sari sari sari sari sari sari sari sari sar"
+  },
+  {
+    "path": "dataset/sunset.jpeg",
+    "caption": "a woman sitting on a rock looking at the sunset"
+  },
+  {
+    "path": "dataset/trip.jpeg",
+    "caption": "a group of people standing in a room"
+  },
+  {
+    "path": "dataset/selfiemirror.jpeg",
+    "caption": "a woman taking a picture of herself in a mirror"
+  },
+  {
+    "path": "dataset/sunpicture.jpeg",
+    "caption": "a woman sitting in a chair"
+  },
+  {
+    "path": "dataset/momdad.jpeg",
+    "caption": "a man and woman sitting at a table"
+  },
+  {
+    "path": "dataset/beach.jpeg",
+    "caption": "a group of people on a beach with a kite"
+  },
+  {
+    "path": "dataset/me.jpeg",
+    "caption": "a woman sitting at a table with a cup of coffee"
+  },
+  {
+    "path": "dataset/ams.jpeg",
+    "caption": "a woman sitting on a window sing a hat"
+  },
+  {
+    "path": "dataset/gympicture.jpeg",
+    "caption": "a woman in a black shirt"
+  }
+]

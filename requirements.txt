@@ -1,0 +1,9 @@
+streamlit
+torch
+open-clip-torch
+transformers
+accelerate
+sentence-transformers
+scikit-learn
+pillow
+numpy
